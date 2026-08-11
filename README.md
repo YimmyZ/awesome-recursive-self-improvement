@@ -1,7 +1,5 @@
 # Awesome-Self-Improving-Harness-and-Agents
 
-# Awesome Agent Harness
-
 > A curated list of research on **agent harness engineering**, **self-evolving harnesses**, **automated harness optimization**, and related methods for building reliable and adaptive LLM agents.
 
 <p align="center">

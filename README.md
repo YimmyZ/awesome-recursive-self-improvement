@@ -107,6 +107,9 @@ Methods that are not directly harness-evolution systems, but provide useful mech
 
 Benchmarks frequently used to evaluate coding agents, agent harnesses, and harness-evolution systems.
 
+- **The Meta-Agent Challenge: Are Current Agents Capable of Autonomous Agent Development?**
+  `arXiv 2026` · [Paper](https://arxiv.org/abs/2606.04455) · [Insights](./insights/meta-agent-challenge.md) · [GitHub](https://github.com/ant-research/meta-agent-challenge) · [Project](https://meta-agent-challenge.com/)
+
 - **SWE-bench: Can Language Models Resolve Real-World GitHub Issues?**  
   `ICLR 2024 · Oral` · [Paper](https://arxiv.org/abs/2310.06770) · [Insights](./insights/swe-bench.md) · [GitHub](https://github.com/SWE-bench/SWE-bench) · [Project](https://www.swebench.com/)
 

@@ -69,10 +69,10 @@ Research that goes beyond frozen-model harness optimization and studies **joint 
   `arXiv 2026` · [Paper](https://arxiv.org/abs/2607.22688) · [Insights](./insights/co-harness.md)
 
 - **Continual Harness: Online Adaptation for Self-Improving Foundation Agents**  
-  `arXiv 2026` · [Paper](https://arxiv.org/abs/2605.09998) · [Insights](./insights/auto-openevolve.md) · [GitHub](https://github.com/sethkarten/continual-harness)
+  `arXiv 2026` · [Paper](https://arxiv.org/abs/2605.09998) · [Insights](./insights/continual-harness.md) · [GitHub](https://github.com/sethkarten/continual-harness)
 
 - **Automated Discovery Has No Universally Superior Harness**
-  `arXiv 2026` · [Paper](https://arxiv.org/pdf/2607.18235) · [Insights](./insights/continual-harness.md) · [GitHub](https://github.com/akshat57/harness-generalization)
+  `arXiv 2026` · [Paper](https://arxiv.org/pdf/2607.18235) · [Insights](./insights/auto-openevolve.md) · [GitHub](https://github.com/akshat57/harness-generalization)
 ---
 
 ## 🤖 Agent & Workflow Self-Evolution

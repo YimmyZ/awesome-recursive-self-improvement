@@ -59,6 +59,9 @@ Research where the **agent harness itself is automatically searched, optimized, 
 - **HARBOR: Automated Harness Optimization**  
   `arXiv 2026` · [Paper](https://arxiv.org/abs/2604.20938) · [Insights](./insights/harbor.md)
 
+- **RewardHarness: Self-Evolving Agentic Post-Training**
+  `arXiv 2026` · [Paper](https://arxiv.org/abs/2605.08703) · [GitHub](https://github.com/TIGER-AI-Lab/RewardHarness) · [Project](https://rewardharness.com)
+
 ---
 
 ## 🔁 Model–Harness Co-Evolution

@@ -85,9 +85,9 @@ flowchart LR
 
 ### Step 1: Roll Out the Current Harness
 
-$$
+$
 T_t = \operatorname{Rollout}(M, H_{t-1}, D, K),
-$$
+$
 
 where:
 

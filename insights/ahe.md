@@ -85,7 +85,7 @@ flowchart LR
 
 ### Step 1: Roll Out the Current Harness
 
-$T_t = \operatorname{Rollout}(M, H_{t-1}, D, K)$
+$T_t = {Rollout}(M, H_{t-1}, D, K)$
 
 where:
 
@@ -103,7 +103,7 @@ The collected trajectories are converted into a consistent representation so tha
 
 The system attributes behavioral changes between consecutive rollouts to the previous Change Manifest:
 
-$V_t = \operatorname{Attribute}(C_{t-1}, T_{t-1}, T_t).$
+$V_t = {Attribute}(C_{t-1}, T_{t-1}, T_t).$
 
 Here, $C_{t-1}$ describes the previous modification, its rationale, and its predicted positive and negative effects. The verification result $V_t$ captures what actually happened after the modification.
 
@@ -118,7 +118,7 @@ Based on this evidence, the Evolver Agent chooses one of three actions:
 The Agent Debugger transforms the normalized trajectories into structured, compact experience:
 
 $$
-R_t = \operatorname{AgentDebugger}(T_t).
+R_t = {AgentDebugger}(T_t).
 $$
 
 $R_t$ highlights the behaviors and failures that matter for the next evolution decision while preserving the option to inspect selected raw trajectories in depth.
@@ -128,7 +128,7 @@ $R_t$ highlights the behaviors and failures that matter for the next evolution d
 Finally, the Evolver Agent uses the previous harness, the structured debugging result, and the verification evidence to produce both the next harness and a new falsifiable contract:
 
 $$
-(H_t, C_t) = \operatorname{Evolve}(H_{t-1}, R_t, V_t).
+(H_t, C_t) = {Evolve}(H_{t-1}, R_t, V_t).
 $$
 
 The new Change Manifest $C_t$ is carried into the next round, where its predictions are evaluated against fresh rollout evidence.

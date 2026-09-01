@@ -169,4 +169,7 @@ Benchmarks frequently used to evaluate coding agents, agent harnesses, and harne
 - **Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces**  
   `arXiv 2026` · [Paper](https://arxiv.org/abs/2601.11868) · [Insights](./insights/terminal-bench.md) · [GitHub](https://github.com/harbor-framework/terminal-bench) · [Project](https://www.tbench.ai/)
 
+
+- **LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code**  
+  `ICLR 2025` · [Paper](https://openreview.net/pdf?id=chfJJYC3iL) · [Insights](./insights/terminal-bench.md) · [GitHub](https://github.com/LiveCodeBench/LiveCodeBench) · [Project](https://livecodebench.github.io/)
 ---

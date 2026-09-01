@@ -53,7 +53,7 @@ Research on the **design, representation, diagnosis, repair, and execution archi
 Research where the **agent harness itself is automatically searched, optimized, repaired, or evolved** while model weights remain fixed.
 
 - **Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses**  
-  `arXiv 2026` · [Paper](https://arxiv.org/abs/2604.25850) · [Insights](./insights/agentic-harness-engineering.md) · [GitHub](https://github.com/china-qijizhifeng/agentic-harness-engineering)
+  `arXiv 2026` · [Paper](https://arxiv.org/abs/2604.25850) · [Insights](./insights/ahe.md) · [GitHub](https://github.com/china-qijizhifeng/agentic-harness-engineering)
 
 - **Meta-Harness: End-to-End Optimization of Model Harnesses**  
   `arXiv 2026` · [Paper](https://arxiv.org/abs/2603.28052) · [Insights](./insights/meta-harness.md) · [GitHub](https://github.com/stanford-iris-lab/meta-harness)

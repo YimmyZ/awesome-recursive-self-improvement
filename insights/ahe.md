@@ -85,9 +85,7 @@ flowchart LR
 
 ### Step 1: Roll Out the Current Harness
 
-$
-T_t = \operatorname{Rollout}(M, H_{t-1}, D, K),
-$
+$T_t = \operatorname{Rollout}(M, H_{t-1}, D, K)$
 
 where:
 
@@ -105,9 +103,7 @@ The collected trajectories are converted into a consistent representation so tha
 
 The system attributes behavioral changes between consecutive rollouts to the previous Change Manifest:
 
-$$
-V_t = \operatorname{Attribute}(C_{t-1}, T_{t-1}, T_t).
-$$
+$V_t = \operatorname{Attribute}(C_{t-1}, T_{t-1}, T_t).$
 
 Here, $C_{t-1}$ describes the previous modification, its rationale, and its predicted positive and negative effects. The verification result $V_t$ captures what actually happened after the modification.
 

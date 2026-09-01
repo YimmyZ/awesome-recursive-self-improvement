@@ -171,5 +171,5 @@ Benchmarks frequently used to evaluate coding agents, agent harnesses, and harne
 
 
 - **LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code**  
-  `ICLR 2025` · [Paper](https://openreview.net/pdf?id=chfJJYC3iL) · [Insights](./insights/terminal-bench.md) · [GitHub](https://github.com/LiveCodeBench/LiveCodeBench) · [Project](https://livecodebench.github.io/)
+  `ICLR 2025` · [Paper](https://openreview.net/pdf?id=chfJJYC3iL) · [Insights](./insights/livecode.md) · [GitHub](https://github.com/LiveCodeBench/LiveCodeBench) · [Project](https://livecodebench.github.io/)
 ---

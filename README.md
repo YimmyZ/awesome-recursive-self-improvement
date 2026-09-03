@@ -55,6 +55,9 @@ Research that improves the software and inference-time system around a model whi
 - **Code as Agent Harness** — Surveys code as the executable, inspectable, and stateful substrate for agent reasoning, action, memory, tools, and verification.<br>
   `arXiv 2026 · Survey` · [Paper](https://arxiv.org/abs/2605.18747) · [GitHub](https://github.com/YennNing/Awesome-Code-as-Agent-Harness-Papers)
 
+- **Natural-Language Agent Harnesses** — Externalizes run-level harness policy as editable natural-language documents and executes it through a shared runtime that materializes roles, handoffs, state updates, validation gates, and artifact contracts.<br>
+  `arXiv 2026` · [Paper](https://arxiv.org/abs/2603.25723) · [Insights](./insights/nlah.md) · [GitHub](https://github.com/curated-skills/LinguaClaw)
+
 - **LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks** — Separates state management, execution, and read-only auditing through a Manage-Execute-Audit loop.<br>
   `arXiv 2026` · [Paper](https://arxiv.org/abs/2608.01964) · [GitHub](https://github.com/AMAP-ML/LongHorizon-Harness)
 

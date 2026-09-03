@@ -1,4 +1,4 @@
-# Awesome Self-Improving Harnesses and Agents
+# Awesome Recursive-Self-Improvement
 
 > A curated bibliography of research on agent-harness optimization, model self-improvement, model-harness co-evolution, and rigorous evaluation of adaptive agents.
 >

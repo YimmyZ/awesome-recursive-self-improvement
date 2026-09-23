@@ -56,7 +56,7 @@ Research that improves the software and inference-time system around a model whi
   `arXiv 2026 · Survey` · [Paper](https://arxiv.org/abs/2605.18747) · [GitHub](https://github.com/YennNing/Awesome-Code-as-Agent-Harness-Papers)
 
 - **Natural-Language Agent Harnesses** — Externalizes run-level harness policy as editable natural-language documents and executes it through a shared runtime that materializes roles, handoffs, state updates, validation gates, and artifact contracts.<br>
-  `arXiv 2026` · [Paper](https://arxiv.org/abs/2603.25723) · [Insights](./insights/nlah.md) · [GitHub](https://github.com/curated-skills/LinguaClaw)
+  `arXiv 2026` · [Paper](https://arxiv.org/abs/2603.25723) · [GitHub](https://github.com/curated-skills/LinguaClaw)
 
 - **LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks** — Separates state management, execution, and read-only auditing through a Manage-Execute-Audit loop.<br>
   `arXiv 2026` · [Paper](https://arxiv.org/abs/2608.01964) · [GitHub](https://github.com/AMAP-ML/LongHorizon-Harness)
@@ -73,7 +73,7 @@ Research that improves the software and inference-time system around a model whi
 ### 1.2 Automated and Self-Evolving Harnesses
 
 - **Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses** — Evolves prompts, tools, middleware, skills, subagents, and memory through component, experience, and decision observability.<br>
-  `arXiv 2026` · [Paper](https://arxiv.org/abs/2604.25850) · [Insights](./insights/ahe.md) · [GitHub](https://github.com/china-qijizhifeng/agentic-harness-engineering)
+  `arXiv 2026` · [Paper](https://arxiv.org/abs/2604.25850) · [GitHub](https://github.com/china-qijizhifeng/agentic-harness-engineering)
 
 - **Meta-Harness: End-to-End Optimization of Model Harnesses** — Searches over harness source code using scores and execution traces from the full history of prior candidates.<br>
   `arXiv 2026` · [Paper](https://arxiv.org/abs/2603.28052) · [GitHub](https://github.com/stanford-iris-lab/meta-harness)
@@ -148,7 +148,7 @@ Research that improves the software and inference-time system around a model whi
 ### 1.5 Harness Selection and Generalization
 
 - **Automated Discovery Has No Universally Superior Harness** — Decomposes discovery harnesses into search components and shows that harness choice is model- and problem-dependent; it also studies adaptive budget reallocation from early signals.<br>
-  `arXiv 2026` · [Paper](https://arxiv.org/abs/2607.18235) · [Insights](./insights/auto-openevolve.md) · [GitHub](https://github.com/akshat57/harness-generalization)
+  `arXiv 2026` · [Paper](https://arxiv.org/abs/2607.18235) · [GitHub](https://github.com/akshat57/harness-generalization)
 
 ---
 
@@ -195,7 +195,7 @@ Work that primarily evaluates self-improvement claims, exposes failure modes, or
 ### 4.1 Self-Improvement and Harness Evaluation
 
 - **The Meta-Agent Challenge: Are Current Agents Capable of Autonomous Agent Development?** — Evaluates whether a meta-agent can build and iteratively improve another agent under fixed resources and reward-hacking defenses.<br>
-  `arXiv 2026` · [Paper](https://arxiv.org/abs/2606.04455) · [Insights](./insights/meta-agent-challenge.md) · [GitHub](https://github.com/ant-research/meta-agent-challenge) · [Project](https://meta-agent-challenge.com/)
+  `arXiv 2026` · [Paper](https://arxiv.org/abs/2606.04455) · [GitHub](https://github.com/ant-research/meta-agent-challenge) · [Project](https://meta-agent-challenge.com/)
 
 - **PostTrainBench: Can LLM Agents Automate LLM Post-Training?** — Benchmarks autonomous post-training of a base LLM under a ten-hour, single-GPU compute budget and audits shortcut and reward-hacking behavior.<br>
   `arXiv 2026` · [Paper](https://arxiv.org/abs/2603.08640) · [Project](https://posttrainbench.com/)
@@ -224,7 +224,7 @@ Work that primarily evaluates self-improvement claims, exposes failure modes, or
   `arXiv 2026` · [Paper](https://arxiv.org/abs/2601.11868) · [GitHub](https://github.com/harbor-framework/terminal-bench) · [Project](https://www.tbench.ai/)
 
 - **LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code** — Uses time-stamped competitive-programming problems to evaluate generation, repair, execution, and test-output prediction.<br>
-  `ICLR 2025` · [Paper](https://arxiv.org/abs/2403.07974) · [Insights](./insights/livecode.md) · [GitHub](https://github.com/LiveCodeBench/LiveCodeBench) · [Project](https://livecodebench.github.io/)
+  `ICLR 2025` · [Paper](https://arxiv.org/abs/2403.07974) · [GitHub](https://github.com/LiveCodeBench/LiveCodeBench) · [Project](https://livecodebench.github.io/)
 
 ---
 

@@ -161,6 +161,9 @@ Research whose primary persistent state is the task model's parameters, without 
 - **Self-Adapting Language Models (SEAL)** — Lets a model generate its own training data and update directives, then applies gradient-based SFT for persistent weight adaptation; an RL outer loop trains the self-edit policy.<br>
   `NeurIPS 2025` · [Paper](https://arxiv.org/abs/2506.10943) · [Project](https://jyopari.github.io/posts/seal) · [GitHub](https://github.com/Continual-Intelligence/SEAL)
 
+- **RewardHarness: Self-Evolving Agentic Post-Training**
+  `arXiv 2026` · [Paper](https://arxiv.org/abs/2605.08703) · [GitHub](https://github.com/TIGER-AI-Lab/RewardHarness) · [Project](https://rewardharness.com)
+
 ---
 
 ## 3. Model-Harness Co-Evolution
